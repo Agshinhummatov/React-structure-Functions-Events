@@ -1,0 +1,17 @@
+.sale-header {
+  height: 30px;
+  background-color: red;
+}
+.sale-header p {
+  text-align: center;
+  color: white;
+}
+
+.header input {
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  height: 40px;
+  width: 237px;
+}/*# sourceMappingURL=general.css.map */
